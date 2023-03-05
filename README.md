@@ -15,14 +15,14 @@
 
 
 <p align="left">
-  <a href="https://github.com/k5-mot/k5-mot/">
-    <img src="https://komarev.com/ghpvc/?username=k5-mot" alt="GitHub"/>
+  <a href="https://github.com/kaku-panda/kaku-panda/">
+    <img src="https://komarev.com/ghpvc/?username=kaku-panda" alt="GitHub"/>
   </a>
   <a href="http://twitter.com/k5_mot">
     <img height="20" src="https://img.shields.io/twitter/follow/k5_mot?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="https://github.com/k5-mot">
-    <img height="20" src="https://img.shields.io/github/followers/k5-mot?label=follow&logo=github&style=flat" />
+  <a href="https://github.com/kaku-panda">
+    <img height="20" src="https://img.shields.io/github/followers/kaku-panda?label=follow&logo=github&style=flat" />
   </a>
   <!-- Articles のバッジ -->
   <a href="https://zenn.dev/k5_mot/articles">
@@ -32,20 +32,20 @@
   <a href="https://zenn.dev/k5_mot/followers">
     <img src="https://zenn.badge.nikaera.com/s/k5_mot/followers?style=flat" alt="k5_mot followers" />
   </a>
-  <!--a href="https://www.reddit.com/user/k5-mot">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/k5-mot?label=Reddit&logo=reddit&style=flat" />
+  <!--a href="https://www.reddit.com/user/kaku-panda">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/kaku-panda?label=Reddit&logo=reddit&style=flat" />
   </a-->
-  <!--a href="https://stackoverflow.com/users/18057054/k5-mot">
+  <!--a href="https://stackoverflow.com/users/18057054/kaku-panda">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/18057054?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a-->
-  <!--a href="https://ja.stackoverflow.com/users/37685/k5-mot">
+  <!--a href="https://ja.stackoverflow.com/users/37685/kaku-panda">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/18057054?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a-->
-  <a href="http://qiita.com/k5-mot">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/k5-mot/posts.svg" />
+  <a href="http://qiita.com/kaku-panda">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/kaku-panda/posts.svg" />
   </a>
-  <a href="http://qiita.com/k5-mot">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/k5-mot/contributions.svg" />
+  <a href="http://qiita.com/kaku-panda">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/kaku-panda/contributions.svg" />
   </a>
 </p>
 
@@ -82,10 +82,10 @@
   <img src="https://img.shields.io/badge/-Intel%20FPGA-0071C5.svg?logo=intel&style=popout">
   </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=k5-mot&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-[![](https://raw.githubusercontent.com/k5-mot/k5-mot/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/k5-mot/k5-mot/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/k5-mot/k5-mot/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/k5-mot/k5-mot/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/k5-mot/k5-mot/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaku-panda&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://raw.githubusercontent.com/kaku-panda/kaku-panda/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kaku-panda/kaku-panda/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kaku-panda/kaku-panda/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kaku-panda/kaku-panda/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kaku-panda/kaku-panda/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 <details>
@@ -106,91 +106,91 @@
     <tr>
       <td>:bust_in_silhouette:</td>
       <td>
-        <a href="https://github.com/k5-mot/k5-mot">k5-mot</a>
+        <a href="https://github.com/kaku-panda/kaku-panda">kaku-panda</a>
       </td>
       <td>:octocat: My GitHub Profile</td>
     </tr>
     <tr>
       <td>:scroll:</td>
       <td>
-        <a href="https://github.com/k5-mot/template-handout">template-handout</a>
+        <a href="https://github.com/kaku-panda/template-handout">template-handout</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>:scroll:</td>
       <td>
-        <a href="https://github.com/k5-mot/template-report">template-report</a>
+        <a href="https://github.com/kaku-panda/template-report">template-report</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>:scroll:</td>
       <td>
-        <a href="https://github.com/k5-mot/template-slide">template-slide</a>
+        <a href="https://github.com/kaku-panda/template-slide">template-slide</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>:scroll:</td>
       <td>
-        <a href="https://github.com/k5-mot/template-IEEE">template-IEEE</a>
+        <a href="https://github.com/kaku-panda/template-IEEE">template-IEEE</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>:scroll:</td>
       <td>
-        <a href="https://github.com/k5-mot/template-IPSJ">template-IPSJ</a>
+        <a href="https://github.com/kaku-panda/template-IPSJ">template-IPSJ</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>:bulb:</td>
       <td>
-        <a href="https://github.com/k5-mot/The-Dining-Philosophers-Problem">The-Dining-Philosophers-Problem</a>
+        <a href="https://github.com/kaku-panda/The-Dining-Philosophers-Problem">The-Dining-Philosophers-Problem</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>:gear:</td>
       <td>
-        <a href="https://github.com/k5-mot/dotfiles">dotfiles</a>
+        <a href="https://github.com/kaku-panda/dotfiles">dotfiles</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>:gear:</td>
       <td>
-        <a href="https://github.com/k5-mot/code-samples">code-samples</a>
+        <a href="https://github.com/kaku-panda/code-samples">code-samples</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>:rocket:</td>
       <td>
-        <a href="https://github.com/k5-mot/package-action">package-action</a>
+        <a href="https://github.com/kaku-panda/package-action">package-action</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>:rocket:</td>
       <td>
-        <a href="https://github.com/k5-mot/info-action">info-action</a>
+        <a href="https://github.com/kaku-panda/info-action">info-action</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>:rocket:</td>
       <td>
-        <a href="https://github.com/k5-mot/latexmk-action">latexmk-action</a>
+        <a href="https://github.com/kaku-panda/latexmk-action">latexmk-action</a>
       </td>
       <td></td>
     </tr>
     <tr>
       <td>:rocket:</td>
       <td>
-        <a href="https://github.com/k5-mot/auto-hms-action">auto-hms-action</a>
+        <a href="https://github.com/kaku-panda/auto-hms-action">auto-hms-action</a>
       </td>
       <td></td>
     </tr>
