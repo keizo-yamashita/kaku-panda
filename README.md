@@ -51,4 +51,30 @@
 [![](https://raw.githubusercontent.com/kaku-panda/kaku-panda/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kaku-panda/kaku-panda/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kaku-panda/kaku-panda/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kaku-panda/kaku-panda/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+パーソナルアジェンダ
 
+客観的に評価された自身の強み・弱みを理解し，これから求められる行動を認識する
+
+自身の強みを活かしたキャリアを歩むための必要なことを理解する
+
+DX・CPS
+
+東芝グループが取り組むDX事業について理解する
+
+配属後に日常の業務をDX化するためのノウハウがあれば学んで活かせるようにメモしておく
+
+グループワークが中心となる講義であるため，主体性，発信を意識して取り組む
+
+### DX・CPS
+
+東芝グループのDX・CPSについて学んだ．入社式での代表のお言葉にもあったが，東芝グループは自社が開発するインフラシステムから得られるデータを取れることが強みだと言うことを再認識できる内容だった．
+
+グループワークでは，DXを軸とした新規事業を創出するためのアイデア出しについて学習し，実践した．アイデア創出においては「思いついたら発言」「否定的なことを一切考えない」することが大切だそうで，否定的意見を考えずに次々と積極的にアイデアを出した．結果として，グループ全体で発表するアイデアとして私の創出したアイデアが元として選出され，自信の向上にも繋がった．こういった新規事業などの大規模なアイデアに限らず，日常のあらゆる業務に「もっと楽にできるんじゃないか」と疑いの目を持って生活していく．
+
+### 日帰り研修
+
+美味しいカレーを作る
+
+しばらくこう言ったイベントに参加する機会はなかったので楽しむ
+
+グループの一体感熟成Part2」でも出た意見だったが，1つの目標に向けてチームで協力することで，これまで話せていなかったメンバーとも自然に楽しくコミュニケーションがとれることを再認識した．「今回は「カレー作り」「ウォークラリー」がチームでの目標であったが，配属後は業務を共通の目標としてコミュニケーションを深めようと思う．また，業務で関わりのない同期とは休日などに趣味などを媒介してコミュニケーションを弾ませていこうと思う．
