@@ -14,35 +14,24 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=popout">
   <img src="https://img.shields.io/badge/-Linux-404040.svg?logo=linux&style=popout">
   <img src="https://img.shields.io/badge/-Ubuntu-77216F.svg?logo=ubuntu&style=popout">
   <img src="https://img.shields.io/badge/-CentOS-262577.svg?logo=centos&style=popout">
   <img src="https://img.shields.io/badge/-C-4682b4.svg?logo=c&style=popout">
   <img src="https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&style=popout">
-  <img src="https://img.shields.io/badge/-C%20Sharp-239120.svg?logo=csharp&style=popout">
   <img src="https://img.shields.io/badge/-Python-FFD43B.svg?logo=python&style=popout">
   <img src="https://img.shields.io/badge/-Bash-ffffff.svg?logo=gnubash&style=popout">
-  <img src="https://img.shields.io/badge/-HTML5-ebebeb.svg?logo=html5&style=popout">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=popout">
   <img src="https://img.shields.io/badge/-JavaScript-323330.svg?logo=javascript&style=popout">
   <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=popout">
   <img src="https://img.shields.io/badge/-Neovim-c0c0c0.svg?logo=Neovim&style=popout">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visualstudiocode&style=popout">
   <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?logo=visualstudio&style=popout">
-  <img src="https://img.shields.io/badge/-tmux-505050.svg?logo=tmux&style=popout">
   <img src="https://img.shields.io/badge/-Git-ffffff.svg?logo=git&style=popout">
-  <img src="https://img.shields.io/badge/-Starship-DD0B78.svg?logo=starship&style=popout">
-  <img src="https://img.shields.io/badge/-Alacritty-404040.svg?logo=alacritty&style=popout">
   <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=popout">
   <img src="https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&style=popout">
   <img src="https://img.shields.io/badge/-Inkscape-000000.svg?logo=inkscape&style=popout">
   <img src="https://img.shields.io/badge/-gnuplot-A42E2B.svg?logo=gnu&style=popout">
   <img src="https://img.shields.io/badge/-OpenGL-c0c0c0.svg?logo=opengl&style=popout">
-  <img src="https://img.shields.io/badge/-MFC-0078D6.svg?logo=windows&style=popout">
-  <img src="https://img.shields.io/badge/-WinForms-0078D6.svg?logo=windows&style=popout">
-  <img src="https://img.shields.io/badge/-WPF-0078D6.svg?logo=windows&style=popout">
-  <img src="https://img.shields.io/badge/-.NET-5C2D91.svg?logo=dotnet&style=popout">
   <img src="https://img.shields.io/badge/-Intel%20FPGA-0071C5.svg?logo=intel&style=popout">
   </p>
 
