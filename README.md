@@ -4,7 +4,7 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kaku-panda&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+)](https://github.com/kaku-panda/github-profile-trophy)
 
 <p align="left">
   <a href="https://github.com/kaku-panda/kaku-panda/">
