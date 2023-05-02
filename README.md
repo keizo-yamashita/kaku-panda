@@ -1,5 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaku-panda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaku-panda&theme=onedark&show_icons=true)(https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaku-panda&theme=onedark&show_icons=true)
 
 <p align="left">
   <a href="https://github.com/kaku-panda/kaku-panda/">
