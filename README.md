@@ -3,8 +3,10 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kaku-panda&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kaku-panda&theme=onedark&column=7
-)](https://github.com/kaku-panda/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kaku-panda&column=8&theme=gruvbox&no-frame=true"/>
+</a>
 
 <p align="left">
   <a href="https://github.com/kaku-panda/kaku-panda/">
