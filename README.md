@@ -1,5 +1,10 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaku-panda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Kaku-Panda's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaku-panda&theme=onedark&show_icons=true)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaku-panda&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kaku-panda&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaku-panda&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">
   <a href="https://github.com/kaku-panda/kaku-panda/">
