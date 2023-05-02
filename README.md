@@ -1,5 +1,5 @@
-[![kaku-panda's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaku-panda
-)](https://github.com/kaku-panda/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=
+)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   <a href="https://github.com/kaku-panda/kaku-panda/">
