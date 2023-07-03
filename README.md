@@ -1,4 +1,4 @@
-![DSC_0010](https://github.com/kaku-panda/kaku-panda/assets/127015900/46e14154-b16d-462b-8618-168cc924d66b)<p align="left"> 
+<p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaku-panda&layout=compact&count_private=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kaku-panda&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
@@ -41,6 +41,5 @@
   <img src="https://img.shields.io/badge/-gnuplot-A42E2B.svg?logo=gnu&style=popout">
   <img src="https://img.shields.io/badge/-OpenGL-c0c0c0.svg?logo=opengl&style=popout">
   <img src="https://img.shields.io/badge/-Intel%20FPGA-0071C5.svg?logo=intel&style=popout">
-  
-</p>![DSC_0010](https://github.com/kaku-panda/kaku-panda/assets/127015900/a56c3026-2f2e-4a11-a205-978f31eb72c8)
+</p>
 
