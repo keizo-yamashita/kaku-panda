@@ -41,5 +41,8 @@
   <img src="https://img.shields.io/badge/-gnuplot-A42E2B.svg?logo=gnu&style=popout">
   <img src="https://img.shields.io/badge/-OpenGL-c0c0c0.svg?logo=opengl&style=popout">
   <img src="https://img.shields.io/badge/-Intel%20FPGA-0071C5.svg?logo=intel&style=popout">
+  ![スクリーンショット 2023-08-21 21 23 27](https://github.com/kaku-panda/kaku-panda/assets/127015900/0dfe8f15-627f-4b69-a078-fbcb337fd4ff)
+  ![スクリーンショット 2023-08-21 21 17 45](https://github.com/kaku-panda/kaku-panda/assets/127015900/a124c7d1-3d4e-4abe-a03a-93d6966e6f3d)
+  ![スクリーンショット 2023-08-21 21 16 47](https://github.com/kaku-panda/kaku-panda/assets/127015900/db5aba4d-b632-4971-80f8-d26880c22441)
 </p>
 
