@@ -25,14 +25,11 @@
 <p align="left">
   <img src="https://img.shields.io/badge/-Linux-404040.svg?logo=linux&style=popout">
   <img src="https://img.shields.io/badge/-Ubuntu-77216F.svg?logo=ubuntu&style=popout">
-  <img src="https://img.shields.io/badge/-CentOS-262577.svg?logo=centos&style=popout">
   <img src="https://img.shields.io/badge/-C-4682b4.svg?logo=c&style=popout">
   <img src="https://img.shields.io/badge/-C++-00599C.svg?logo=cplusplus&style=popout">
   <img src="https://img.shields.io/badge/-Python-FFD43B.svg?logo=python&style=popout">
   <img src="https://img.shields.io/badge/-Bash-ffffff.svg?logo=gnubash&style=popout">
-  <img src="https://img.shields.io/badge/-JavaScript-323330.svg?logo=javascript&style=popout">
   <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=popout">
-  <img src="https://img.shields.io/badge/-Neovim-c0c0c0.svg?logo=Neovim&style=popout">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visualstudiocode&style=popout">
   <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91.svg?logo=visualstudio&style=popout">
   <img src="https://img.shields.io/badge/-Git-ffffff.svg?logo=git&style=popout">
@@ -41,6 +38,5 @@
   <img src="https://img.shields.io/badge/-Inkscape-000000.svg?logo=inkscape&style=popout">
   <img src="https://img.shields.io/badge/-gnuplot-A42E2B.svg?logo=gnu&style=popout">
   <img src="https://img.shields.io/badge/-OpenGL-c0c0c0.svg?logo=opengl&style=popout">
-  <img src="https://img.shields.io/badge/-Intel%20FPGA-0071C5.svg?logo=intel&style=popout">
 </p>
 
