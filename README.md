@@ -1,6 +1,6 @@
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaku-panda&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kaku-panda&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keizo-yamashita&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=keizo-yamashita&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
@@ -10,13 +10,10 @@
 
 
 <p align="left">
-  <a href="https://github.com/kaku-panda/kaku-panda/">
-    <img src="https://komarev.com/ghpvc/?username=kaku-panda" alt="kaku-panda" />
+  <a href="https://github.com/kaku-panda/keizo-yamashita/">
+    <img src="https://komarev.com/ghpvc/?username=keizo-yamashita" alt="keizo-yamashita" />
   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=kakupan34">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kakupan34?style=social">
-  </a>
-  <a href="https://github.com/kaku-panda">
+  <a href="https://github.com/keizo-yamashita">
     <img height="20" src="https://img.shields.io/github/followers/kaku-panda?label=follow&logo=github&style=flat" />
   </a>
 </p>
